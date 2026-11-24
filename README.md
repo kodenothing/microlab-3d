@@ -1,12 +1,17 @@
 # MicroLab 3D
 
+[![Live website](https://img.shields.io/badge/website-live-27a689?style=flat-square)](https://microlab-3d.vercel.app/)
+![Boards](https://img.shields.io/badge/boards-5-0f2239?style=flat-square)
+![Lessons](https://img.shields.io/badge/lessons-57-f86b1d?style=flat-square)
+[![GitHub stars](https://img.shields.io/github/stars/kodenothing/microlab-3d?style=flat-square)](https://github.com/kodenothing/microlab-3d/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kodenothing/microlab-3d?style=flat-square)](https://github.com/kodenothing/microlab-3d/forks)
+[![GitHub issues](https://img.shields.io/github/issues/kodenothing/microlab-3d?style=flat-square)](https://github.com/kodenothing/microlab-3d/issues)
+
 **Learn electronics. Build circuits. Bring ideas to life.**
 
 MicroLab 3D is an interactive, browser-based electronics learning platform. Explore microcontrollers, connect virtual components, practice programming, and test circuits in a 3D workspace — without needing physical hardware for every experiment.
 
 [**Launch MicroLab 3D →**](https://microlab-3d.vercel.app/)
-
-**Topics:** [Electronics](https://github.com/topics/electronics) · [Arduino](https://github.com/topics/arduino) · [ESP32](https://github.com/topics/esp32) · [Raspberry Pi](https://github.com/topics/raspberry-pi) · [STM32](https://github.com/topics/stm32) · [Circuit simulation](https://github.com/topics/circuit-simulator) · [Embedded systems](https://github.com/topics/embedded-systems) · [STEM education](https://github.com/topics/stem-education)
 
 ## Explore the workbench
 
