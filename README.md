@@ -13,6 +13,25 @@ MicroLab 3D is an interactive, browser-based electronics learning platform. Expl
 
 [**Launch MicroLab 3D →**](https://microlab-3d.vercel.app/)
 
+<!-- showcase-screenshots -->
+## Screenshots
+
+Actual screenshots of the hosted MicroLab 3D application.
+
+**Guided lessons**
+
+![MicroLab 3D guided lesson workspace](screenshots/guided-lesson.png)
+
+**3D circuit builder**
+
+![MicroLab 3D circuit builder](screenshots/circuit-builder.png)
+
+**Component explorer**
+
+![MicroLab 3D component explorer](screenshots/component-explorer.png)
+
+<!-- /showcase-screenshots -->
+
 ## Explore the workbench
 
 | Feature | What you can do |
