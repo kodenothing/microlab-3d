@@ -6,6 +6,8 @@ MicroLab 3D is an interactive, browser-based electronics learning platform. Expl
 
 [**Launch MicroLab 3D →**](https://microlab-3d.vercel.app/)
 
+**Topics:** [Electronics](https://github.com/topics/electronics) · [Arduino](https://github.com/topics/arduino) · [ESP32](https://github.com/topics/esp32) · [Raspberry Pi](https://github.com/topics/raspberry-pi) · [STM32](https://github.com/topics/stm32) · [Circuit simulation](https://github.com/topics/circuit-simulator) · [Embedded systems](https://github.com/topics/embedded-systems) · [STEM education](https://github.com/topics/stem-education)
+
 ## Explore the workbench
 
 | Feature | What you can do |
