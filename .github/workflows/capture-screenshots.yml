@@ -15,12 +15,13 @@ concurrency:
 
 jobs:
   capture:
-    runs-on: ubuntu-latest
-    timeout-minutes: 8
+    runs-on: ubuntu-24.04
+    timeout-minutes: 12
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
           persist-credentials: false
+          fetch-depth: 0
       - name: Install browser
         working-directory: ${{ runner.temp }}
         run: |
@@ -104,4 +105,6 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git commit -m "docs: publish live MicroLab 3D screenshots"
           gh auth setup-git
+          git fetch origin main
+          git rebase origin/main
           git push origin HEAD:main
